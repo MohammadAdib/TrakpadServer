@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TrakpadServer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/releases/TrakpadServer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

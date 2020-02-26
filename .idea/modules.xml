@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/TrakpadServer.iml" filepath="$PROJECT_DIR$/.idea/TrakpadServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TrakpadServer.iml" filepath="$PROJECT_DIR$/TrakpadServer.iml" />
     </modules>
   </component>
 </project>
