@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="201a6573-b86f-43ad-b0ac-bd2602c4fe02" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/TrakpadServer/META-INF/MANIFEST.MF" beforeDir="false" />
-    </list>
+    <list default="true" id="201a6573-b86f-43ad-b0ac-bd2602c4fe02" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +58,9 @@
     <option name="width" value="2505" />
     <option name="height" value="1417" />
   </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -74,6 +74,11 @@
             <path>
               <item name="TrakpadServer" type="b2602c69:ProjectViewProjectNode" />
               <item name="TrakpadServer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TrakpadServer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TrakpadServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -110,16 +115,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582692826723</updated>
-      <workItem from="1582692827980" duration="14000" />
+      <workItem from="1582692827980" duration="240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14000" />
+    <option name="totallyTimeSpent" value="240000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="23" width="2505" height="1417" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
